@@ -1,4 +1,4 @@
-# (Application Name)
+# (Application Name) - Template Edition
 
 #### (Brief Description of Application)
 
@@ -6,15 +6,7 @@
 
 ## Technologies Used
 
-* HTML
-* Github/bash
-* Virtual Studio Code
-* CSS
-* Bootstrap
-* Javascript
-* Jquery
-* Markdown
-* 
+* List your tech.
 
 ## Description
 
@@ -43,4 +35,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Contact Information
 
-Email at: [zemenareq@hotmail.com](zemenareq@hotmail.com)
+Email at: [zemenarwow@hotmail.com](zemenarwow@hotmail.com)
